@@ -1,7 +1,6 @@
-# Inventory Management Mini-Project with Oracle, Unix, and Python
-
+# Inventory Management
 ## Project Overview
-This mini-project demonstrates an inventory management system using the Oracle database, Unix shell scripting, and Python. The project includes automating data transfer with a Unix script and generating inventory reports using a Python script.
+This project demonstrates an inventory management system using the Oracle database, Unix shell scripting, and Python. The project includes automating data transfer with a Unix script and generating inventory reports using a Python script.
 
 ## Project Goal
 Develop a system to:
